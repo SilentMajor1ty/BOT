@@ -1,4 +1,4 @@
-python-telegram-bot==20.7
+python-telegram-bot==22.0
 pyrogram==2.0.106
 tgcrypto==1.2.5
 environs==9.5.0
