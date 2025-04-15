@@ -1,0 +1,380 @@
+2025-04-10 21:55:51,074 - INFO - Connecting...
+2025-04-10 21:55:51,082 - INFO - Connected! Production DC4 - IPv4
+2025-04-10 21:55:51,083 - INFO - NetworkTask started
+2025-04-10 21:55:51,123 - INFO - Session initialized: Layer 199
+2025-04-10 21:55:51,124 - INFO - Device: CPython 3.13.2 - Pyrogram 2.1.39
+2025-04-10 21:55:51,124 - INFO - System: Windows 11 (en)
+2025-04-10 21:55:51,124 - INFO - Session started
+2025-04-10 21:55:51,126 - INFO - PingTask started
+2025-04-10 21:55:51,191 - INFO - Started 20 HandlerTasks
+2025-04-10 21:55:51,192 - CRITICAL - ������ �������: name 'start' is not defined
+2025-04-10 21:55:51,530 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-28' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,531 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-27' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-26' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-25' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-24' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-23' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-22' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-21' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-20' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-19' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-18' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-17' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-16' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-15' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-14' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-13' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,532 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-12' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,533 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-11' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,533 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-10' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 21:55:51,533 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-9' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:06:47,703 - INFO - Connecting...
+2025-04-10 22:06:47,713 - INFO - Connected! Production DC4 - IPv4
+2025-04-10 22:06:47,713 - INFO - NetworkTask started
+2025-04-10 22:06:47,764 - INFO - Session initialized: Layer 199
+2025-04-10 22:06:47,765 - INFO - Device: CPython 3.13.2 - Pyrogram 2.1.39
+2025-04-10 22:06:47,765 - INFO - System: Windows 11 (en)
+2025-04-10 22:06:47,765 - INFO - Session started
+2025-04-10 22:06:47,767 - INFO - PingTask started
+2025-04-10 22:06:47,849 - INFO - Started 20 HandlerTasks
+2025-04-10 22:06:47,956 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getMe "HTTP/1.1 200 OK"
+2025-04-10 22:06:47,957 - INFO - Scheduler started
+2025-04-10 22:06:47,957 - INFO - Application started
+2025-04-10 22:06:47,993 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-10 22:06:48,084 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:06:58,122 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:07:08,177 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:07:18,219 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:07:22,998 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-9' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-10' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-11' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-12' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-13' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-14' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-15' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-16' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-17' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-18' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-19' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-20' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-21' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-22' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-23' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-24' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-25' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:22,999 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-26' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:23,000 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-27' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:23,000 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-28' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:28,881 - INFO - Connecting...
+2025-04-10 22:07:28,891 - INFO - Connected! Production DC4 - IPv4
+2025-04-10 22:07:28,892 - INFO - NetworkTask started
+2025-04-10 22:07:28,977 - INFO - Session initialized: Layer 199
+2025-04-10 22:07:28,978 - INFO - Device: CPython 3.13.2 - Pyrogram 2.1.39
+2025-04-10 22:07:28,978 - INFO - System: Windows 11 (en)
+2025-04-10 22:07:28,978 - INFO - Session started
+2025-04-10 22:07:28,979 - INFO - PingTask started
+2025-04-10 22:07:29,089 - INFO - Started 20 HandlerTasks
+2025-04-10 22:07:29,270 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getMe "HTTP/1.1 200 OK"
+2025-04-10 22:07:29,270 - INFO - Scheduler started
+2025-04-10 22:07:29,270 - INFO - Application started
+2025-04-10 22:07:29,319 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-10 22:07:35,053 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:07:45,103 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:07:51,908 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-9' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,909 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-10' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,909 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-11' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,909 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-12' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,909 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-13' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,909 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-14' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,909 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-15' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,909 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-16' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,909 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-17' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,909 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-18' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,909 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-19' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,909 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-20' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,910 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-21' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,910 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-22' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,910 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-23' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,910 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-24' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,910 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-25' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,925 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-26' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,925 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-27' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:07:51,925 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-28' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:44:04,583 - INFO - Connecting...
+2025-04-10 22:44:04,593 - INFO - Connected! Production DC4 - IPv4
+2025-04-10 22:44:04,596 - INFO - NetworkTask started
+2025-04-10 22:44:04,710 - INFO - Session initialized: Layer 199
+2025-04-10 22:44:04,711 - INFO - Device: CPython 3.13.2 - Pyrogram 2.1.39
+2025-04-10 22:44:04,711 - INFO - System: Windows 11 (en)
+2025-04-10 22:44:04,711 - INFO - Session started
+2025-04-10 22:44:04,712 - INFO - PingTask started
+2025-04-10 22:44:04,909 - INFO - Started 20 HandlerTasks
+2025-04-10 22:44:04,974 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getMe "HTTP/1.1 200 OK"
+2025-04-10 22:44:04,975 - INFO - Scheduler started
+2025-04-10 22:44:04,975 - INFO - Application started
+2025-04-10 22:44:04,989 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-10 22:44:15,050 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:44:25,065 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:44:35,092 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:44:45,106 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:44:55,119 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:45:05,131 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:45:15,143 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:45:25,156 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:45:35,167 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:45:36,252 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-9' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-10' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-11' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-12' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-13' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-14' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-15' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-16' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-17' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-18' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-19' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-20' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-21' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-22' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-23' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,253 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-24' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,254 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-25' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,266 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-26' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,267 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-27' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:45:36,267 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-28' coro=<Dispatcher.handler_worker() running at C:\Users\sereg\AppData\Local\Programs\Python\Python313\Lib\site-packages\pyrogram\dispatcher.py:276>>
+2025-04-10 22:46:25,490 - INFO - Start creating a new auth key on DC2
+2025-04-10 22:46:25,490 - INFO - Connecting...
+2025-04-10 22:46:25,499 - INFO - Connected! Production DC2 - IPv4
+2025-04-10 22:46:26,510 - INFO - Done auth key exchange: DhGenOk
+2025-04-10 22:46:26,511 - INFO - Disconnected
+2025-04-10 22:46:26,518 - INFO - Connecting...
+2025-04-10 22:46:26,527 - INFO - Connected! Production DC2 - IPv4
+2025-04-10 22:46:26,528 - INFO - NetworkTask started
+2025-04-10 22:46:26,565 - INFO - Session initialized: Layer 199
+2025-04-10 22:46:26,565 - INFO - Device: CPython 3.13.2 - Pyrogram 2.1.39
+2025-04-10 22:46:26,565 - INFO - System: Windows 11 (en)
+2025-04-10 22:46:26,565 - INFO - Session started
+2025-04-10 22:46:26,567 - INFO - PingTask started
+2025-04-10 22:47:00,827 - INFO - PingTask stopped
+2025-04-10 22:47:00,827 - INFO - NetworkTask stopped
+2025-04-10 22:47:00,827 - INFO - Disconnected
+2025-04-10 22:47:00,827 - INFO - Session stopped
+2025-04-10 22:47:00,832 - INFO - Start creating a new auth key on DC4
+2025-04-10 22:47:00,832 - INFO - Connecting...
+2025-04-10 22:47:00,841 - INFO - Connected! Production DC4 - IPv4
+2025-04-10 22:47:02,102 - INFO - Done auth key exchange: DhGenOk
+2025-04-10 22:47:02,103 - INFO - Disconnected
+2025-04-10 22:47:02,108 - INFO - Connecting...
+2025-04-10 22:47:02,123 - INFO - Connected! Production DC4 - IPv4
+2025-04-10 22:47:02,123 - INFO - NetworkTask started
+2025-04-10 22:47:02,179 - INFO - Session initialized: Layer 199
+2025-04-10 22:47:02,179 - INFO - Device: CPython 3.13.2 - Pyrogram 2.1.39
+2025-04-10 22:47:02,179 - INFO - System: Windows 11 (en)
+2025-04-10 22:47:02,179 - INFO - Session started
+2025-04-10 22:47:02,180 - INFO - PingTask started
+2025-04-10 22:47:20,358 - INFO - Started 20 HandlerTasks
+2025-04-10 22:47:20,434 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getMe "HTTP/1.1 200 OK"
+2025-04-10 22:47:20,435 - INFO - Scheduler started
+2025-04-10 22:47:20,435 - INFO - Application started
+2025-04-10 22:47:20,445 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-10 22:47:20,446 - INFO - Бот запущен!
+2025-04-10 22:47:30,485 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:47:35,509 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:47:40,697 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:47:42,492 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:47:52,505 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:48:02,525 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:48:12,543 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:48:22,555 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:48:32,574 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:48:42,588 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:48:52,599 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:49:02,612 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:49:12,624 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:49:22,637 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:49:32,654 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:49:42,671 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:49:52,686 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:50:02,701 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:50:12,721 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:50:22,737 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:50:29,475 - INFO - Application is stopping. This might take a moment.
+2025-04-10 22:50:29,476 - INFO - Scheduler has been shut down
+2025-04-10 22:50:29,487 - INFO - Application.stop() complete
+2025-04-10 22:50:29,490 - INFO - Stopped 20 HandlerTasks
+2025-04-10 22:50:29,491 - INFO - PingTask stopped
+2025-04-10 22:50:29,491 - INFO - NetworkTask stopped
+2025-04-10 22:50:29,491 - INFO - Disconnected
+2025-04-10 22:50:29,491 - INFO - Session stopped
+2025-04-10 22:50:29,491 - INFO - Бот остановлен
+2025-04-10 22:50:35,772 - INFO - Start creating a new auth key on DC2
+2025-04-10 22:50:35,772 - INFO - Connecting...
+2025-04-10 22:50:35,780 - INFO - Connected! Production DC2 - IPv4
+2025-04-10 22:50:36,710 - INFO - Done auth key exchange: DhGenOk
+2025-04-10 22:50:36,711 - INFO - Disconnected
+2025-04-10 22:50:36,718 - INFO - Connecting...
+2025-04-10 22:50:36,727 - INFO - Connected! Production DC2 - IPv4
+2025-04-10 22:50:36,728 - INFO - NetworkTask started
+2025-04-10 22:50:36,903 - INFO - Session initialized: Layer 199
+2025-04-10 22:50:36,904 - INFO - Device: CPython 3.13.2 - Pyrogram 2.1.39
+2025-04-10 22:50:36,904 - INFO - System: Windows 11 (en)
+2025-04-10 22:50:36,904 - INFO - Session started
+2025-04-10 22:50:36,906 - INFO - PingTask started
+2025-04-10 22:51:02,305 - INFO - PingTask stopped
+2025-04-10 22:51:02,306 - INFO - NetworkTask stopped
+2025-04-10 22:51:02,306 - INFO - Disconnected
+2025-04-10 22:51:02,306 - INFO - Session stopped
+2025-04-10 22:51:02,310 - INFO - Start creating a new auth key on DC4
+2025-04-10 22:51:02,310 - INFO - Connecting...
+2025-04-10 22:51:02,318 - INFO - Connected! Production DC4 - IPv4
+2025-04-10 22:51:03,498 - INFO - Done auth key exchange: DhGenOk
+2025-04-10 22:51:03,498 - INFO - Disconnected
+2025-04-10 22:51:03,503 - INFO - Connecting...
+2025-04-10 22:51:03,515 - INFO - Connected! Production DC4 - IPv4
+2025-04-10 22:51:03,516 - INFO - NetworkTask started
+2025-04-10 22:51:03,567 - INFO - Session initialized: Layer 199
+2025-04-10 22:51:03,567 - INFO - Device: CPython 3.13.2 - Pyrogram 2.1.39
+2025-04-10 22:51:03,567 - INFO - System: Windows 11 (en)
+2025-04-10 22:51:03,567 - INFO - Session started
+2025-04-10 22:51:03,567 - INFO - PingTask started
+2025-04-10 22:51:17,919 - INFO - Started 20 HandlerTasks
+2025-04-10 22:51:17,994 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getMe "HTTP/1.1 200 OK"
+2025-04-10 22:51:17,994 - INFO - Scheduler started
+2025-04-10 22:51:17,994 - INFO - Application started
+2025-04-10 22:51:18,006 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-10 22:51:18,007 - INFO - Бот запущений!
+2025-04-10 22:51:23,385 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:51:23,463 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/sendMessage "HTTP/1.1 200 OK"
+2025-04-10 22:51:23,487 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/sendMessage "HTTP/1.1 200 OK"
+2025-04-10 22:51:23,621 - INFO - Connecting...
+2025-04-10 22:51:23,630 - INFO - Connected! Production DC4 (media) - IPv4
+2025-04-10 22:51:23,631 - INFO - NetworkTask started
+2025-04-10 22:51:23,711 - INFO - Session initialized: Layer 199
+2025-04-10 22:51:23,711 - INFO - Device: CPython 3.13.2 - Pyrogram 2.1.39
+2025-04-10 22:51:23,711 - INFO - System: Windows 11 (en)
+2025-04-10 22:51:23,711 - INFO - Session started
+2025-04-10 22:51:23,712 - INFO - PingTask started
+2025-04-10 22:51:24,178 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/sendMessage "HTTP/1.1 200 OK"
+2025-04-10 22:51:33,409 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:51:43,424 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:51:44,254 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/sendMessage "HTTP/1.1 200 OK"
+2025-04-10 22:51:53,439 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:51:58,200 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:52:08,217 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:52:09,298 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:52:19,323 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:52:29,338 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:52:39,363 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:52:49,379 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:52:59,394 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:53:09,407 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:53:19,420 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:53:28,288 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:53:28,403 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/sendMessage "HTTP/1.1 200 OK"
+2025-04-10 22:53:28,417 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/sendMessage "HTTP/1.1 200 OK"
+2025-04-10 22:53:28,900 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/sendMessage "HTTP/1.1 200 OK"
+2025-04-10 22:53:38,308 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:53:48,320 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:53:49,290 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/sendMessage "HTTP/1.1 200 OK"
+2025-04-10 22:53:58,334 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:54:08,349 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:54:09,390 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/sendMessage "HTTP/1.1 200 OK"
+2025-04-10 22:54:18,363 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:54:28,390 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:54:38,413 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:54:48,442 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:54:58,458 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:55:08,471 - INFO - HTTP Request: POST https://api.telegram.org/bot7989603058:AAG7KRv3vJO41P-C0T4k0jEJPuDx6KoW0v8/getUpdates "HTTP/1.1 200 OK"
+2025-04-10 22:55:18,045 - INFO - Application is stopping. This might take a moment.
+2025-04-10 22:55:18,046 - INFO - Scheduler has been shut down
+2025-04-10 22:55:18,070 - INFO - Application.stop() complete
+2025-04-10 22:55:18,074 - INFO - Stopped 20 HandlerTasks
+2025-04-10 22:55:18,074 - INFO - PingTask stopped
+2025-04-10 22:55:18,074 - INFO - NetworkTask stopped
+2025-04-10 22:55:18,074 - INFO - Disconnected
+2025-04-10 22:55:18,074 - INFO - Session stopped
+2025-04-10 22:55:18,074 - INFO - PingTask stopped
+2025-04-10 22:55:18,075 - INFO - NetworkTask stopped
+2025-04-10 22:55:18,075 - INFO - Disconnected
+2025-04-10 22:55:18,075 - INFO - Session stopped
+2025-04-10 22:55:18,075 - INFO - Бот зупинено
