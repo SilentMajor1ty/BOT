@@ -10,14 +10,12 @@ import logging
 import os
 
 env = Env()
-env.read_env("config.env")
+env.read_env(".env")
 
 API_ID = env.int("APP_API_ID")
 API_HASH = env.str("APP_API_HASH")
 BOT_TOKEN = env.str("BOT_TOKEN")
 LOGIN = env.str("LOGIN")
-
-video_path = "video.mp4"
 
 # Ініціалізація клієнтів
 userbot = Client(

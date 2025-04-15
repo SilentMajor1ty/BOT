@@ -2,7 +2,6 @@ import os
 import asyncio
 import json
 import logging
-import sys
 from typing import Dict
 from environs import Env
 from pyrogram import Client, errors
@@ -13,7 +12,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandl
 
 # Загрузка конфигурации
 env = Env()
-env.read_env("config.env")
+env.read_env(".env")
 
 API_ID = env.int("APP_API_ID")
 API_HASH = env.str("APP_API_HASH")
@@ -26,11 +25,11 @@ class BroadcastBot:
     def __init__(self):
 
         self.video_files = [
-            "video1.mp4",
-            "video2.mp4",
-            "video3.mp4",
-            "video4.mp4",
-            "video5.mp4"
+            "videos/video1.mp4",
+            "videos/video2.mp4",
+            "videos/video3.mp4",
+            "videos/video4.mp4",
+            "videos/video5.mp4"
         ]
         self.userbot = Client(
             name=LOGIN,
