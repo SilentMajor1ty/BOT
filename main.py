@@ -34,9 +34,7 @@ class BroadcastBot:
         self.userbot = Client(
             name=LOGIN,
             api_id=API_ID,
-            api_hash=API_HASH,
-            phone_number="+48537709276"
-
+            api_hash=API_HASH
         )
         self.ptb_app = Application.builder().token(BOT_TOKEN).build()
         self.current_tasks: Dict[int, asyncio.Task] = {}
