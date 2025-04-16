@@ -20,7 +20,6 @@ SESSION_STRING = env.str("SESSION_STRING")
 
 # Ініціалізація клієнтів
 userbot = Client(
-    name=LOGIN,
     session_string=SESSION_STRING,
     api_id=API_ID,
     api_hash=API_HASH
