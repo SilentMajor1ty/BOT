@@ -16,10 +16,11 @@ API_ID = env.int("APP_API_ID")
 API_HASH = env.str("APP_API_HASH")
 BOT_TOKEN = env.str("BOT_TOKEN")
 LOGIN = env.str("LOGIN")
+SESSION_STRING = env.str("SESSION_STRING")
 
 # Ініціалізація клієнтів
 userbot = Client(
-    name=LOGIN,
+    session_string=SESSION_STRING,
     api_id=API_ID,
     api_hash=API_HASH
 )
@@ -365,6 +366,7 @@ async def main():
         },
         fallbacks=[CommandHandler("cancel", cancel)],
     )
+
 
     ptb_app.add_handler(message_handler)
     ptb_app.add_handler(interval_handler)
