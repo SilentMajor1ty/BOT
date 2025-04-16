@@ -31,7 +31,11 @@ class BroadcastBot:
             "videos/video4.mp4",
             "videos/video5.mp4"
         ]
-        self.userbot = Client("testme")
+        self.userbot = Client(
+            "testme",
+            api_id=API_ID,
+            api_hash=API_HASH
+        )
         self.ptb_app = Application.builder().token(BOT_TOKEN).build()
         self.current_tasks: Dict[int, asyncio.Task] = {}
 
