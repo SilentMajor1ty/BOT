@@ -1,4 +1,7 @@
-python-telegram-bot==22.0
 pyrogram==2.0.106
-tgcrypto==1.2.5
-environs==9.5.0
+python-telegram-bot==20.8
+aiosqlite==0.19.0
+python-dotenv>=1.0.0
+tgcrypto
+aiolimiter
+environs

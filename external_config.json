@@ -1,0 +1,8 @@
+{
+  "contacts": [],
+  "message": "",
+  "interval": 15,
+  "message_links": [],
+  "broadcast_mode": "links",
+  "limit_per_userbot": 5
+}
