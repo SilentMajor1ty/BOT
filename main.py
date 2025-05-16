@@ -7,6 +7,7 @@ import sqlite3
 import logging
 from functools import wraps
 from datetime import datetime, timezone, timedelta
+from aiolimiter import AsyncLimiter
 from telegram.warnings import PTBUserWarning
 warnings.filterwarnings("ignore", category=PTBUserWarning)
 from typing import Dict, List, Optional, Tuple
@@ -28,6 +29,7 @@ ADMIN_ID =env.int("ADMIN_ID")
 DB_PATH = "users.db"
 
 MAX_USERS_PER_MANAGER = 10
+limiter = AsyncLimiter(1, 3)
 
 # ConversationHandler
 (
@@ -566,19 +568,19 @@ class BroadcastBot:
 
     @staticmethod
     async def safe_resolve_username(pyrogram_client, username):
-        try:
-            user = await pyrogram_client.get_users(username)
-            return user.id
-        except FloodWait as e:
-            print(f"FLOOD_WAIT {e.value}s для {username}")
-            await asyncio.sleep(e.value)
-        except UsernameNotOccupied:
-            print(f"{username} не существует")
-            return None
-        except Exception as ex:
-            print(f"Ошибка {username}: {ex}")
-            return None
-        await asyncio.sleep(3)
+        async with limiter:
+            try:
+                user = await pyrogram_client.get_users(username)
+                return user.id
+            except FloodWait as e:
+                print(f"FLOOD_WAIT {e.value}s для {username}")
+                await asyncio.sleep(e.value)
+            except UsernameNotOccupied:
+                print(f"{username} не существует")
+                return None
+            except Exception as ex:
+                print(f"Ошибка {username}: {ex}")
+                return None
     async def get_valid_unsent_users(self, usernames: list, pyrogram_client) -> list:
         valid_users = []
         for username in usernames:
