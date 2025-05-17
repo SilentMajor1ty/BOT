@@ -1,4 +1,4 @@
-from environs import Env
+
 from telegram.ext import (
     CommandHandler,
     MessageHandler,
@@ -7,9 +7,7 @@ from telegram.ext import (
     filters,
 )
 
-env = Env()
-env.read_env(".env")
-GROUP_ID=env.int("GROUP_ID")
+GROUP_ID=-1002525488393
 
 (
     MAIN_MENU,

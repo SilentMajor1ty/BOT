@@ -11,7 +11,6 @@ from aiolimiter import AsyncLimiter
 from telegram.warnings import PTBUserWarning
 warnings.filterwarnings("ignore", category=PTBUserWarning)
 from typing import Dict, List, Optional, Tuple
-from environs import Env
 from pyrogram import Client
 from handlers import setup_handlers
 from telegram.error import BadRequest
@@ -20,15 +19,13 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, ContextTypes
 
 # --- CONFIGURATION ---
-env = Env()
-env.read_env(".env")
 
-BOT_TOKEN = env.str("BOT_TOKEN")
-GROUP_ID=env.int("GROUP_ID")
-ADMIN_ID =env.int("ADMIN_ID")
+BOT_TOKEN="7300919682:AAFIj1S5VF1IVBnrNhgOLqvZhNlSTL6qdJQ"
+GROUP_ID=-1002525488393
+ADMIN_ID = [543583405]
 DB_PATH = "users.db"
-
 MAX_USERS_PER_MANAGER = 10
+
 limiter = AsyncLimiter(1, 3)
 
 # ConversationHandler
@@ -389,7 +386,7 @@ class MessageProcessor:
                     if chat_id.isdigit():
                         chat_id = int("-100" + chat_id)
                     message_id = int(match.group(2))
-                    return chat_id, message_id
+                    return message_id
                 except (IndexError, ValueError):
                     continue
         return None
@@ -1638,13 +1635,20 @@ class BroadcastBot:
                         await client.send_message(uname, message_text)
                     elif mode == "links" and links:
                         for link in links:
-                            chat_id, message_id = self.message_processor.parse_telegram_link(link)
-                            await client.copy_message(
-                                chat_id=uname,
-                                from_chat_id=chat_id,
-                                message_id=message_id
-                            )
-                            await asyncio.sleep(interval)
+                            parsed = self.message_processor.parse_telegram_link(link)
+                            if not parsed:
+                                print(f"Некорректная ссылка: {link}")
+                                continue
+                            message_id = parsed
+                            try:
+                                await client.copy_message(
+                                    chat_id=uname,
+                                    from_chat_id=GROUP_ID,
+                                    message_id=message_id
+                                )
+                                await asyncio.sleep(interval)
+                            except Exception as e:
+                                print(f"Ошибка при пересылке {link} -> {uname}: {e}")
                     self.db.mark_external_broadcast_sent(user_id, uname)
                     send_counters[client] += 1
                 except Exception as e:
@@ -1652,7 +1656,6 @@ class BroadcastBot:
                 await asyncio.sleep(interval)
                 queue.task_done()
 
-        # Запуск
         resolver_task = asyncio.create_task(resolver())
         sender_tasks = [asyncio.create_task(sender(client)) for client in userbot_clients]
         await resolver_task
@@ -1660,7 +1663,6 @@ class BroadcastBot:
         for t in sender_tasks:
             t.cancel()
 
-        # Можно посчитать количество отправленных, если нужно
         total_sent = sum(send_counters.values())
         await context.bot.send_message(
             chat_id=update.effective_chat.id,
