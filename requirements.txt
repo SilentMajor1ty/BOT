@@ -3,3 +3,4 @@ environs==9.5.0
 Pyrogram==2.0.106
 python-telegram-bot==22.1
 tgcrypto
+Kurigram
