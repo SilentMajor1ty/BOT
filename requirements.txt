@@ -1,0 +1,4 @@
+aiolimiter==1.2.1
+environs==9.5.0
+Pyrogram==2.0.106
+python-telegram-bot==22.1
