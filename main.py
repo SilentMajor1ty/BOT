@@ -8,8 +8,6 @@ import logging
 from functools import wraps
 from datetime import datetime, timezone, timedelta
 from aiolimiter import AsyncLimiter
-from telegram.warnings import PTBUserWarning
-warnings.filterwarnings("ignore", category=PTBUserWarning)
 from typing import Dict, List, Optional, Tuple
 from pyrogram import Client
 from handlers import setup_handlers
