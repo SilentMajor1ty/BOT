@@ -1,0 +1,10 @@
+{
+  "contacts": [
+    "@eternalmode"
+  ],
+  "message": "",
+  "interval": 15,
+  "forward_limit": 2,
+  "broadcast_mode": "links",
+  "limit_per_userbot": 5
+}
